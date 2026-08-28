@@ -1,0 +1,32 @@
+```
+# Shader cache and compiled files
+*.fsh.bak
+*.vsh.bak
+*.glsl.bak
+shaders/cache/
+shaders/build/
+
+# Compressed shader packages
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
