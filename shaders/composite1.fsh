@@ -6,9 +6,9 @@
 
 #define COMPOSITE1_FRAGMENT
 
-#include "common.glsl"
-#include "water.glsl"
-#include "post.glsl"
+#include "lib/common.glsl"
+#include "lib/water.glsl"
+#include "lib/post.glsl"
 
 varying vec2 texCoord;
 varying vec2 halfResTexCoord;

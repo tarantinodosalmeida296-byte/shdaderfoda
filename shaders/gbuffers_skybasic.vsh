@@ -6,8 +6,8 @@
 
 #define GBUFFERS_SKYBASIC_VERTEX
 
-#include "common.glsl"
-#include "atmosphere.glsl"
+#include "lib/common.glsl"
+#include "lib/atmosphere.glsl"
 
 varying vec3 viewDir;
 varying float sunFactor;

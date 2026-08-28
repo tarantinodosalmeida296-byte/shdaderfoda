@@ -6,7 +6,7 @@
 
 #define GBUFFERS_SKYTEXTURED_VERTEX
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 varying vec2 texCoord;
 varying vec4 color;

@@ -5,7 +5,7 @@
 #ifndef POST_GLSL
 #define POST_GLSL
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 // ============================================================================
 // BLOOM - Downscale progressivo com blur separável

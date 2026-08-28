@@ -5,7 +5,7 @@
 #ifndef NOISE_GLSL
 #define NOISE_GLSL
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 // ============================================================================
 // HASH FUNCTIONS - Base para todo noise procedural

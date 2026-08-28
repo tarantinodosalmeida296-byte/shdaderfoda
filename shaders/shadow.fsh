@@ -6,7 +6,7 @@
 
 #define SHADOW_FRAGMENT
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 varying float distanceFromLight;
 varying vec2 texCoord;

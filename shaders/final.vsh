@@ -6,7 +6,7 @@
 
 #define FINAL_VERTEX
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 varying vec2 texCoord;
 

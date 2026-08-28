@@ -6,8 +6,8 @@
 
 #define GBUFFERS_WATER_VERTEX
 
-#include "common.glsl"
-#include "water.glsl"
+#include "lib/common.glsl"
+#include "lib/water.glsl"
 
 varying vec2 texCoord;
 varying vec3 normal;

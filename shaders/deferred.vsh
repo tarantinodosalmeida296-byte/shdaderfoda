@@ -6,7 +6,7 @@
 
 #define DEFERRED_VERTEX
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 // Varyings para o fragment shader
 varying vec4 colortex;

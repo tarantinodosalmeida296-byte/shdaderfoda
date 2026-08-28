@@ -6,7 +6,7 @@
 
 #define GBUFFERS_ENTITIES_FRAGMENT
 
-#include "common.glsl"
+#include "lib/common.glsl"
 
 varying vec2 texCoord;
 varying vec3 normal;
