@@ -6,8 +6,8 @@
 
 #define GBUFFERS_TERRAIN_FRAGMENT
 
-#include "lib/common.glsl"
-#include "lib/noise.glsl"
+#include "common.glsl"
+#include "noise.glsl"
 
 varying vec2 texCoord;
 varying vec2 midTexCoord;

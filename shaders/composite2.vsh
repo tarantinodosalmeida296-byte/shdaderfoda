@@ -6,7 +6,7 @@
 
 #define COMPOSITE2_VERTEX
 
-#include "lib/common.glsl"
+#include "common.glsl"
 
 varying vec2 texCoord;
 varying vec2 halfResTexCoord;

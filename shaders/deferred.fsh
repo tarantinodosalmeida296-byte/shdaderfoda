@@ -6,8 +6,8 @@
 
 #define DEFERRED_FRAGMENT
 
-#include "lib/common.glsl"
-#include "lib/noise.glsl"
+#include "common.glsl"
+#include "noise.glsl"
 
 varying vec4 colortex;
 varying vec2 texCoord;

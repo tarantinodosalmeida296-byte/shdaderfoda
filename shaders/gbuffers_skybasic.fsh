@@ -6,9 +6,9 @@
 
 #define GBUFFERS_SKYBASIC_FRAGMENT
 
-#include "lib/common.glsl"
-#include "lib/atmosphere.glsl"
-#include "lib/noise.glsl"
+#include "common.glsl"
+#include "atmosphere.glsl"
+#include "noise.glsl"
 
 varying vec3 viewDir;
 varying float sunFactor;

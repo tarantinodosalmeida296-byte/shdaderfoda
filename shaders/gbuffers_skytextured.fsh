@@ -6,8 +6,8 @@
 
 #define GBUFFERS_SKYTEXTURED_FRAGMENT
 
-#include "lib/common.glsl"
-#include "lib/atmosphere.glsl"
+#include "common.glsl"
+#include "atmosphere.glsl"
 
 varying vec2 texCoord;
 varying vec4 color;
