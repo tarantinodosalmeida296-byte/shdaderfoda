@@ -5,8 +5,8 @@
 #ifndef WATER_GLSL
 #define WATER_GLSL
 
-#include "lib/common.glsl"
-#include "lib/noise.glsl"
+#include "common.glsl"
+#include "noise.glsl"
 
 // ============================================================================
 // CONSTANTES DE ÁGUA

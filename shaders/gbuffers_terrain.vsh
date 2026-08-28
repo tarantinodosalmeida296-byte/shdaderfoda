@@ -6,7 +6,7 @@
 
 #define GBUFFERS_TERRAIN_VERTEX
 
-#include "lib/common.glsl"
+#include "common.glsl"
 
 // Atributos do Minecraft
 attribute vec4 mc_Entity;

@@ -6,9 +6,9 @@
 
 #define COMPOSITE_FRAGMENT
 
-#include "lib/common.glsl"
-#include "lib/noise.glsl"
-#include "lib/atmosphere.glsl"
+#include "common.glsl"
+#include "noise.glsl"
+#include "atmosphere.glsl"
 
 varying vec2 texCoord;
 varying vec2 halfResTexCoord;

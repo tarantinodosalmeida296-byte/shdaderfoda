@@ -5,8 +5,8 @@
 #ifndef ATMOSPHERE_GLSL
 #define ATMOSPHERE_GLSL
 
-#include "lib/common.glsl"
-#include "lib/noise.glsl"
+#include "common.glsl"
+#include "noise.glsl"
 
 // ============================================================================
 // MODELO DE CÉU SIMPLIFICADO (Preetham-like)

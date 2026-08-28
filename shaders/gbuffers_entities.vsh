@@ -6,7 +6,7 @@
 
 #define GBUFFERS_ENTITIES_VERTEX
 
-#include "lib/common.glsl"
+#include "common.glsl"
 
 varying vec2 texCoord;
 varying vec3 normal;

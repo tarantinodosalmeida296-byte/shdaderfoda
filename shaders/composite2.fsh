@@ -6,8 +6,8 @@
 
 #define COMPOSITE2_FRAGMENT
 
-#include "lib/common.glsl"
-#include "lib/post.glsl"
+#include "common.glsl"
+#include "post.glsl"
 
 varying vec2 texCoord;
 varying vec2 halfResTexCoord;
